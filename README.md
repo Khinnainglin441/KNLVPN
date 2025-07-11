@@ -1,2 +1,0 @@
-# KNLVPN
-Website
